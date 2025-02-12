@@ -5,10 +5,10 @@ I'm a Data Scientist
 ----------------
 
 A data professional from India 🇮🇳 with hands-on experience in:
-- **ML Development & MLOps** – orchestrating end-to-end pipelines and scalable deployments
-- **Large-Scale Data Processing** – optimizing performance for high-volume datasets
-- **NLP & Computer Vision** – building intelligent solutions for diverse domains
-- **LLMs** – exploring and fine-tuning large language models for cutting-edge applications
+- **ML Development & MLOps** – Orchestrating end-to-end pipelines and scalable deployments for production-grade machine learning systems.
+- **Large-Scale Data Processing** – Optimizing performance and efficiency for high-volume datasets to enable data-driven decision-making.
+- **Computer Vision** – Developing point cloud-based object detection models for 3D spatial analysis and real-world applications.
+- **NLP & LLMs** – Fine-tuning large language models for innovative applications, including exploring use cases in the defense sector and video-to-text systems.
 
 I enjoy designing robust AI/ML workflows that turn raw data into actionable insights. Currently, I'm expanding my expertise in **LLM-powered applications** and **enterprise-level pipeline automation** to push the boundaries of what's possible with AI.
 
