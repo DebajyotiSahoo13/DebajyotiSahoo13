@@ -1,7 +1,7 @@
 # Hi, This is Dev..![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 
 
-I'm a Data Scientist
+I'm a ML Engineer
 ----------------
 
 A data professional from India 🇮🇳 with hands-on experience in:
